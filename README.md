@@ -9,14 +9,6 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 <h3 align="center">MERN Stack enthusiast with solving coding Question</h3>
- ---
-
-### :woman_technologist:Social Profile:
-
-<a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="aditya-singh-8107771b9/"/>
- 
-</div>
   ---
 
 ### :woman_technologist: About Me :
