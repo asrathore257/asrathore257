@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya Singh Rathore</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">MERN Stack enthusiast with solving some dsa Question</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asrathore257&label=Profile%20views&color=0e75b6&style=flat" alt="asrathore257" /> </p>
 
